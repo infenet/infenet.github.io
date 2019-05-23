@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: '*tap tap tap* Is this thing on...?'
 ---
 ## A new chapter
