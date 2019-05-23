@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: ""
+title: "infenet on security"
 
 # Short description of your site
 description: Learning to pwn; Pwning to learn!
@@ -23,8 +23,8 @@ description: Learning to pwn; Pwning to learn!
 
 # List of links in the navigation bar
 navbar-links:
-  Posts: ""
-  About Me: "aboutme"
+  #Posts: ""
+  #About Me: "aboutme"
   #Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
