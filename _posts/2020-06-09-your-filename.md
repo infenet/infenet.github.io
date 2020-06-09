@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ''
+title: Evilginx2 Tutorial
 ---
 ## A New Post
 
